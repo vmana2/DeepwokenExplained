@@ -1,4 +1,1 @@
-# DeepwokenExplained
-Sources:
-https://deepwoken.fandom.com/wiki/
-  Used images and information
+Report.pdf holds all of the citations! All of the images can be found in citations as well.
